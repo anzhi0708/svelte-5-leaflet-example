@@ -10,7 +10,7 @@
     L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {}).addTo(
       map,
     );
-    map.arrtibutionControl.setPrefix("Anji");
+    map.attributionControl.setPrefix("github.com/anzhi0708");
   });
 </script>
 
