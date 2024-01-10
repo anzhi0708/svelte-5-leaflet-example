@@ -1,4 +1,7 @@
 # Svelte 5 - Leaflet.js Example
+
+![Screenshot](./screenshot.png)
+
 An Example of Drawing a Map with Svelte + Leaflet
 
 ## Key Points
